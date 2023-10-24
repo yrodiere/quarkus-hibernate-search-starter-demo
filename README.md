@@ -2,6 +2,8 @@
 
 This project uses Quarkus, Hibernate Search and Elasticsearch to showcase a web application with full-text search features.
 
+See the demonstration video [here](https://www.youtube.com/watch?v=Nnh_DuzA3BM).
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Before running the application
